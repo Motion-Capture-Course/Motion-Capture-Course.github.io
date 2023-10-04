@@ -8,8 +8,8 @@ After that, we should **export** the character as .VRM model.
 Before start, please open the Vroid Studio, click the project that you have saved last lesson.
 Also please download the images that we will use.
 
-Girl Uniform source: https://imgur.com/a/D7hLDVm
-Boy Uniform source: https://imgur.com/a/4VAhulE
+- Girl Uniform source: https://imgur.com/a/D7hLDVm
+- Boy Uniform source: https://imgur.com/a/4VAhulE
 After go to the website, download the images
 ![](\Lesson3\lesson3-27.png)
 ## 1. Create School Uniform
