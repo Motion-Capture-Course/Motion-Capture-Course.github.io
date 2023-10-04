@@ -20,6 +20,7 @@ Reminder:
 2.	Only **solo movement** can be detected. But you can process more than 1 video to animate more than 1 character!
 3.	Fingers and faces cannot be detected. Please film references with large movements! We have an example of filming a video with a phone and doing motion capture. Here is the result:
 ![](\Lesson4\Steve.gif)
+4. We should capture the legs, otherwise it will look weird!
 ### Option 2: find reference videos online!
 If you don't have much time to record a video, you can still find references from the internet.
 e.g. dance covers, and action film cuts

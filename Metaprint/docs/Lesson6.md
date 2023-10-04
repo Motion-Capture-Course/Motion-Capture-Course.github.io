@@ -24,18 +24,15 @@ Workflow:
 - Select Data Properties in the right corner. You can see there is a Shape Keys panel.
 - *Shape Keys are a set of vertex positions that can be stored and manipulated. It is powerful commonly use to create different facial expressions for a character. But now we don't need them.
 ![](/Lesson6/shapekey1.gif)
-4. 
-- Select the second shape key. 
+4. - Select the second shape key. 
 - Click the arrow at right. 
 - Click **Delete All Shape Keys**, because we cannot apply object's modeifiers with shape keys.
 ![](/Lesson6/shapekey2.gif)
-5. 
-- Select Modifier Properties. 
+5. - Select Modifier Properties. 
 - Click the arrow next to the Armature modifier. 
 - Click **Apply**. This apply the transformation of the character affected by the armature. If we don't apply, the exported file will become T-pose.
 ![](/Lesson6/modifier1.gif)
-6. 
-- Select the body of the character. 
+6. - Select the body of the character. 
 - As the body of the character doesn't have shape keys, we can go to Modifier Properties directly. 
 - Click the arrow next to the Armature modifier. 
 - Click **Apply**.

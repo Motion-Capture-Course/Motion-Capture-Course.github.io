@@ -10,6 +10,7 @@ Workflow：
 ## 1. Installation (If not yet downloaded)
 If you don't have VRoid Studio on your computer, please download it.
 **VRoid Studio Window Version** [Click Here to Download](https://download.vroid.com/dist/WVfRBEhAJJ/VRoidStudio-v1.23.2-win.exe)
+
 Official Website: https://vroid.com/en/studio
 1. Once you have downloaded VRoid Studio, please run the installation process.
 ![](\Lesson1\lessonone2.png)

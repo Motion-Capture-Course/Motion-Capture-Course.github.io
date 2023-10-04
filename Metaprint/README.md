@@ -1,4 +1,4 @@
-![banner](Picture1.png)
+![banner](Metaprintlogo.png)
 # Motion Capture Course
 
 * [Lesson 1 Introduction to Vroid Studio⇗](/docs/Lesson1.md)
