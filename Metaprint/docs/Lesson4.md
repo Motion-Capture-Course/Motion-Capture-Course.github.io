@@ -18,9 +18,12 @@ You can use webcam in Rokoko Studio website to film video!
 Reminder: 
 1.	Please make sure your background is as clean as possible! We suggest filming with a **white background**.
 2.	Only **solo movement** can be detected. But you can process more than 1 video to animate more than 1 character!
-3.	Fingers and faces cannot be detected. Please film references with large movements! We have an example of filming a video with a phone and doing motion capture. Here is the result:
-![](\Lesson4\Steve.gif)
+3.	Fingers and faces cannot be detected. Please film references with large movements!
 4. We should capture the legs, otherwise it will look weird!
+
+ We have an example of filming a video with a phone and doing motion capture. Here is the result:
+![](\Lesson4\Steve.gif)
+
 ### Option 2: find reference videos online!
 If you don't have much time to record a video, you can still find references from the internet.
 e.g. dance covers, and action film cuts

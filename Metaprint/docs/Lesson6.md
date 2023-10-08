@@ -3,6 +3,7 @@ After this lesson, you will learn to export a 3D print file with your character 
 
 First, please open the saved .blend file in the previous lesson.
 Also, you should download 3D builder to fix the 3D model to printable.
+
 **3D Builder** [Click Here to Download](https://3d-builder.en.uptodown.com/windows/download)
 
 Workflow: 
@@ -53,11 +54,11 @@ Workflow:
 ![](/Lesson6/lesson6-4.png)
 3. Click **Import Model**.
 ![](/Lesson6/lesson6-5.png)
-Click the box in the lower right corner.
+4. Click the box in the lower right corner.
 ![](/Lesson6/lesson6-6.png)
-4. Click the item icon in the upper left corner.
+5. Click the item icon in the upper left corner.
 Click **Save as**.
 ![](/Lesson6/lesson6-7.png)
-5. Rename and choose .stl format.
+6. Rename and choose .stl format.
 Export the file.
 ![](/Lesson6/lesson6-8.png)
