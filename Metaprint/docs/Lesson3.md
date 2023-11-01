@@ -65,7 +65,7 @@
 ![](\Lesson3\lesson3-12.png)
 14. 將顔色改成灰色後儲存.
 ![](\Lesson3\lesson3-13.gif)
-15. 調節右邊參數 **SKirt(Longer)** 和 **Skirt(Wider)** 將裙子拉長至過膝
+15. 調節右邊參數 **Skirt(Longer)** 和 **Skirt(Wider)** 將裙子拉長至過膝
 ![](\Lesson3\lesson3-27.gif)
 **完成!!**
 
@@ -176,6 +176,8 @@ Go to https://pixlr.com/tw/x/#editor, click **打開圖像**. Select the layer i
 ![](\Lesson3\lesson3-12.png)
 14. Change the Main Color into grey. Close and save the file.
 ![](\Lesson3\lesson3-13.gif)
+15. Adjust the parameter **Skirt(Longer)** and **Skirt(Wider)** to lengthen the skirt.
+![](\Lesson3\lesson3-27.gif)
 **Finished!!**
 
 ### 1.2 Boy Version
