@@ -14,11 +14,13 @@
 
 也請下載你所需要的素材:
 
-- 校服(女裝)素材: https://imgur.com/a/D7hLDVm
+- 校服(女裝)素材: 
+![](\Lesson3\Girl1.png)
+![](\Lesson3\Girl2.png)
 - 校服(男裝)素材: https://imgur.com/a/4VAhulE
+![](\Lesson3\Boy1.png)
+![](\Lesson3\Boy2.png)
 
-進入網站後,點(download)下載圖片
-![](\Lesson3\lesson3-27.png)
 ## 1. 製作校服
 
 ### 1.1 女裝
